@@ -8,6 +8,9 @@ A simple password manager app -- **MellonPass**. I'll be launching that soon.
 
 Will also list more small projects used for learning new technologies :) 
 
+📫 How to reach me:
+- Website: [https://roekzkie.dev](https://www.roelzkie.dev/)
+
 ## My Skills
 
 ### Programming Languages
@@ -32,7 +35,3 @@ Will also list more small projects used for learning new technologies :)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=flat-square)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?logo=digitalocean&logoColor=white&style=flat-square)
-
-## Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/roel-delos-reyes-1a085115a/)
