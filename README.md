@@ -1,14 +1,12 @@
 # Hi there, I'm Roel! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for creating innovative solutions and learning new technologies.
+I work at [Finqle](https://finqle.com/) a fintech company.
 
-## About Me
+In my free time, I'm learning new technologies and currently working on a side project to learn Cryptography, Svelte, Kubernetes, and DevOps.
 
-- 💼 I’m currently working at [Finqle](https://finqle.com/) a fintech company.
-- 🚀 I’m currently working on a side project, a simple password manager to learn Cryptography, Svelte, Kubernetes, and anything related to DevOps. Wanna join? 😸
-- 💬 I want to learn A.I. but don't have the time yet 😮‍💨.
-- 📫 How to reach me: [badcoder28@gmail.com](mailto:badcoder28@gmail.com)
-- ⚡ Fun fact: I love swimming and playing mobile games.
+A simple password manager app -- **MellonPass**. I'll be launching that soon.
+
+Will also list more small projects used for learning new technologies :) 
 
 ## My Skills
 
