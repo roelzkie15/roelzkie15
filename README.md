@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 ## About Me
 
 - 💼 I’m currently working at [Finqle](https://finqle.com/) a fintech company.
-- 🚀 I’m currently working on a side project, a simple password manager to learn Cryptography, Svelte, Kubernetes, and anything related to DevOps.
+- 🚀 I’m currently working on a side project, a simple password manager to learn Cryptography, Svelte, Kubernetes, and anything related to DevOps. Wanna join? 😸
 - 💬 I want to learn A.I. but don't have the time yet 😮‍💨.
 - 📫 How to reach me: [badcoder28@gmail.com](mailto:badcoder28@gmail.com)
 - ⚡ Fun fact: I love swimming and playing mobile games.
