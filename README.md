@@ -4,7 +4,7 @@ I work at [Finqle](https://finqle.com/) a fintech company.
 
 In my free time, I'm working on a simple password manager **MellonPass** as a side project _(wanna join? 😸)_ to learn Cryptography, Svelte, Kubernetes, and DevOps.
 
-Will also list more small projects used for learning new technologies :) 
+Will also list more small projects used for learning new technologies. 🚀
 
 📫 How to reach me:
 - Website: [https://roekzkie.dev](https://www.roelzkie.dev/)
