@@ -2,9 +2,7 @@
 
 I work at [Finqle](https://finqle.com/) a fintech company.
 
-In my free time, I'm learning new technologies and currently working on a side project to learn Cryptography, Svelte, Kubernetes, and DevOps.
-
-A simple password manager app -- **MellonPass**. I'll be launching that soon.
+In my free time, I'm working on a simple password manager **MellonPass** as a side project _(wanna join? 😸)_ to learn Cryptography, Svelte, Kubernetes, and DevOps.
 
 Will also list more small projects used for learning new technologies :) 
 
