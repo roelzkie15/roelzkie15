@@ -1,6 +1,6 @@
 # Hi there, I'm Roel! 👋
 
-I worked at a Fintech company.
+I work at a Fintech company.
 
 In my free time, I'm working on a simple password manager **MellonPass** as a side project _(wanna join? 😸)_ to learn Cryptography, Svelte, Kubernetes, and DevOps.
 
