@@ -2,9 +2,7 @@
 
 I work at a Fintech company.
 
-In my free time, I'm working on a simple password manager **MellonPass** as a side project _(wanna join? 😸)_ to learn Cryptography, Svelte, Kubernetes, and DevOps.
-
-Will also list more small projects used for learning new technologies. 🚀
+In my free time, I'm working on a simple password manager [**MellonPass**](https://github.com/mellonpass) as a side project.
 
 📫 How to reach me:
 - Website: [https://roekzkie.dev](https://www.roelzkie.dev/)
